@@ -67,16 +67,16 @@ ModelAtrs是面向开发者的一站式AI开发平台，可快速创建和部署
 ![alt text](picture/AICC2.png)
 
 
-[账号申请](2.账号申请.md)
+[账号申请](1.账号申请.md)
 
-[资源申请](3.资源申请.md)
+[资源申请](2.资源申请.md)
 
-[Notebook训练环境使用](4.Notebook训练环境使用.md)
+[Notebook训练环境使用](3.Notebook训练环境使用.md)
 
-[Notebook镜像上传下载](5.Notebook镜像上传下载.md)
+[Notebook镜像上传下载](4.Notebook镜像上传下载.md)
 
-[OBS云存储使用](6.OBS云存储使用.md)
+[OBS云存储使用](5.OBS云存储使用.md)
 
-[AI应用发布上线](7.AI应用发布上线.md)
+[AI应用发布上线](6.AI应用发布上线.md)
 
-[裸金属服务器使用](8.裸金属服务器使用.md)
+[裸金属服务器使用](7.裸金属服务器使用.md)
